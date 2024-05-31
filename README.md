@@ -31,4 +31,4 @@ Make sure you have the following installed:
 
 ```bash
 git clone https://github.com/ARieS15AV/TECH-INSIGHTS-WEBSITE.git
-cd techinsights
+cd TECH-INSIGHTS-WEBSITE
