@@ -24,7 +24,7 @@ TechInsights is a modern tech blog website where users can read the latest artic
 
 Make sure you have the following installed:
 
-- Python 3.x
+- Python 3.10.10
 - Django
 
 ### Clone the Repository
